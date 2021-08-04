@@ -1,0 +1,45 @@
+*{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.project-heading{
+    align-self: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+body{
+    background:#2f2fa2;
+}
+
+section{
+    
+    display: flex;
+    justify-content: center;
+    
+}
+
+.card-body{
+    margin: 10px;
+    border-radius: 15px;
+    width: 300px;
+    background-color: #553d67;
+    
+    
+   
+}
+
+.card_image{
+    margin-bottom: 15px;
+    width: 300px;
+    height: 150px;
+    background-size: cover;
+    background-color: gray;
+}
+
+
+.img-2 {
+    width: 300px;
+    height: 150px;
+}
